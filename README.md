@@ -28,7 +28,7 @@ Beyond the stack: **authentication & authorization**, **background jobs**, and *
 ---
 
 <p align="center">
-  <strong>A little motion from my contributions</strong>
+  <strong>A little motion from my Contribution Snake 🐍</strong>
 </p>
 
 <picture>
