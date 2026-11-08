@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arshia-eshrati-691585242"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp; <a href="mailto:arshiaeshrati1385@gmail.com"><strong>Email ↗</strong></a>
+  <a href="https://www.linkedin.com/in/arshia-eshrati-691585242" title="Connect on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="44" height="44" /></a>
+  &nbsp;
+  <a href="mailto:arshiaeshrati1385@gmail.com" title="Send me an email"><img src="./assets/email.svg" alt="Email" width="44" height="44" /></a>
 </p>
 
 ## A little about me
