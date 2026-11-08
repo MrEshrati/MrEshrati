@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="256" viewBox="0 0 1000 256" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Arshia Eshrati — Backend developer</title>
+  <desc id="desc">APIs, data, and the systems in between. A midnight blue banner with mint accents and connected geometric shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D2C"/><stop offset="1" stop-color="#0C151F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(839 126) scale(218)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7C7" stop-opacity=".085"/><stop offset="1" stop-color="#6EE7C7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#6EE7C7" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="256" rx="18" fill="url(#bg)"/>
+  <rect x="650" width="350" height="256" rx="18" fill="url(#dots)"/>
+  <rect x="632" width="368" height="256" fill="url(#glow)"/>
+  <rect x="48" y="44" width="28" height="3" rx="1.5" fill="#6EE7C7"/>
+  <text x="48" y="79" fill="#6EE7C7" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3">BACKEND DEVELOPER</text>
+  <text x="45" y="147" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">Arshia Eshrati</text>
+  <text x="48" y="186" fill="#A9B8C9" font-family="Segoe UI,Arial,sans-serif" font-size="18">APIs, data, and the systems in between.</text>
+  <g stroke="#6EE7C7" stroke-width="1.5">
+    <path d="M738 128H788V77H840M788 128V179H840" stroke-opacity=".45"/>
+    <rect x="670" y="96" width="68" height="64" rx="12" fill="#122635" stroke-opacity=".65"/>
+    <rect x="840" y="45" width="68" height="64" rx="12" fill="#122635" stroke-opacity=".3"/>
+    <rect x="840" y="147" width="68" height="64" rx="12" fill="#122635" stroke-opacity=".3"/>
+    <path d="m697 116-10 12 10 12m14-24 10 12-10 12" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="874" cy="65" rx="14" ry="5" stroke-opacity=".7"/>
+    <path d="M860 65v22c0 3 6 5 14 5s14-2 14-5V65m-28 11c0 3 6 5 14 5s14-2 14-5" stroke-opacity=".7"/>
+    <rect x="860" y="165" width="28" height="7" rx="2" stroke-opacity=".7"/>
+    <rect x="860" y="185" width="28" height="7" rx="2" stroke-opacity=".7"/>
+    <path d="M874 172v13" stroke-opacity=".7"/>
+  </g>
+  <circle cx="788" cy="128" r="4" fill="#6EE7C7"/>
+  <path d="M48 224H952" stroke="#8DA6BD" stroke-opacity=".12"/>
+</svg>
+
