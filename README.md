@@ -25,14 +25,13 @@ Beyond the stack: **authentication & authorization**, **background jobs**, and *
 
 ---
 
-<details>
-  <summary><strong>A little motion from my contributions</strong></summary>
-  <br />
+<p align="center">
+  <strong>A little motion from my contributions</strong>
+</p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrEshrati/MrEshrati/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrEshrati/MrEshrati/gh-pages/github-contribution-grid-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/MrEshrati/MrEshrati/gh-pages/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrEshrati/MrEshrati/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrEshrati/MrEshrati/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/MrEshrati/MrEshrati/gh-pages/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
