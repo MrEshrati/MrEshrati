@@ -10,7 +10,7 @@
 
 I'm Arshia, a backend developer working with **JavaScript, Node.js, and Python**. I enjoy turning complex workflows into clear APIs, with a focus on data integrity, access control, and thoughtful testing.
 
-> **Currently learning:** deep learning and neural networks through Andrew Ng's course.
+> **Currently learning:** deep learning and neural networks.
 
 ## My toolkit
 
