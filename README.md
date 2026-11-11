@@ -10,7 +10,7 @@
 
 ## A little about me
 
-I'm Arshia, a backend developer working with **JavaScript, Node.js, and Python**. I enjoy turning complex workflows into clear APIs, with a focus on data integrity, access control, and thoughtful testing.
+I'm Arshia, a backend developer working with **JavaScript and Node.js**. I enjoy turning complex workflows into clear APIs, with a focus on data integrity, access control, and thoughtful testing.
 
 > **Currently learning:** deep learning and neural networks.
 
