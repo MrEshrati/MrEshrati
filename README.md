@@ -16,7 +16,7 @@ I'm Arshia, a backend developer working with **JavaScript and Node.js**. I enjoy
 
 ## My toolkit
 
-<p>
+<p align="center">
   <img src="./assets/toolkit/languages-runtime.svg" alt="Languages &amp; runtime. JavaScript · Python · Node.js" width="330" />
   <img src="./assets/toolkit/apis-data.svg" alt="APIs &amp; data. Express · Mongoose · MongoDB · PostgreSQL · REST APIs · OpenAPI · Database transactions" width="330" /><br />
   <img src="./assets/toolkit/tools-delivery.svg" alt="Tools &amp; delivery. Docker · nginx · GitHub Actions · Git · Linux" width="330" />
