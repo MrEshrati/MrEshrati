@@ -17,32 +17,11 @@ I'm Arshia, a backend developer working with **JavaScript and Node.js**. I enjoy
 ## My toolkit
 
 <p>
-  <strong>Languages</strong><br />
-  <img src="./assets/toolkit/javascript.svg" alt="JavaScript" width="99" height="30" />
-  <img src="./assets/toolkit/python.svg" alt="Python" width="81" height="30" />
+  <img src="./assets/toolkit/languages-runtime.svg" alt="Languages &amp; runtime. JavaScript · Python · Node.js" width="330" />
+  <img src="./assets/toolkit/apis-data.svg" alt="APIs &amp; data. Express · Mongoose · MongoDB · PostgreSQL · REST APIs · OpenAPI · Database transactions" width="330" /><br />
+  <img src="./assets/toolkit/tools-delivery.svg" alt="Tools &amp; delivery. Docker · nginx · GitHub Actions · Git · Linux" width="330" />
+  <img src="./assets/toolkit/engineering-practices.svg" alt="Engineering practices. Authentication &amp; authorization · Background jobs · Unit &amp; integration testing" width="330" />
 </p>
-
-<p>
-  <strong>Backend &amp; data</strong><br />
-  <img src="./assets/toolkit/nodejs.svg" alt="Node.js" width="82" height="30" />
-  <img src="./assets/toolkit/express.svg" alt="Express" width="88" height="30" />
-  <img src="./assets/toolkit/mongoose.svg" alt="Mongoose" width="100" height="30" />
-  <img src="./assets/toolkit/mongodb.svg" alt="MongoDB" width="98" height="30" />
-  <img src="./assets/toolkit/postgresql.svg" alt="PostgreSQL" width="112" height="30" /><br />
-  REST APIs · OpenAPI · Database transactions
-</p>
-
-<p>
-  <strong>Tools &amp; delivery</strong><br />
-  <img src="./assets/toolkit/docker.svg" alt="Docker" width="80" height="30" />
-  <img src="./assets/toolkit/nginx.svg" alt="nginx" width="70" height="30" />
-  <img src="./assets/toolkit/github-actions.svg" alt="GitHub Actions" width="127" height="30" />
-  <img src="./assets/toolkit/git.svg" alt="Git" width="53" height="30" />
-  <img src="./assets/toolkit/linux.svg" alt="Linux" width="70" height="30" />
-</p>
-
-**Engineering practices**<br />
-Authentication & authorization · Background jobs · Unit & integration testing
 
 ---
 

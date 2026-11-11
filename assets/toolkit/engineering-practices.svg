@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="102" viewBox="0 0 330 102" role="img" aria-labelledby="title skills">
+  <title id="title">Engineering practices</title>
+  <desc id="skills">Authentication &amp; authorization · Background jobs · Unit &amp; integration testing</desc>
+  <style>
+    .card { fill: #f0f9f7; stroke: #c6e1dc; }
+    .heading { fill: #166451; font-weight: 600; }
+    .skills { fill: #203b37; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #112030; stroke: #315560; }
+      .heading { fill: #77eacb; }
+      .skills { fill: #e6f5f2; }
+    }
+  </style>
+  <rect class="card" x=".5" y="3.5" width="329" height="95" rx="9"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <text class="heading" x="16" y="32">Engineering practices</text>
+    <text class="skills" x="16" y="55">Authentication &amp; authorization</text>
+    <text class="skills" x="16" y="75">Background jobs · Unit &amp; integration testing</text>
+  </g>
+</svg>
