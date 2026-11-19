@@ -23,6 +23,13 @@ I'm Arshia, a backend developer working with **JavaScript and Node.js**. I enjoy
   <img src="./assets/toolkit/engineering-practices.svg" alt="Engineering practices. Authentication &amp; authorization · Background jobs · Unit &amp; integration testing" width="330" />
 </p>
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://mreshrati-vercel-stats.vercel.app/api/stats" alt="GitHub Stats and activity grade for the last 12 months" width="330" />
+  <img src="https://mreshrati-vercel-stats.vercel.app/api/languages" alt="Most Used Languages by code size" width="330" />
+</p>
+
 ---
 
 <p align="center">
